@@ -1,6 +1,6 @@
 # StockMarketTrendPrediction
 
-Predicting the trend of a stock on the Iranian Stock Exchange
+Predicting the trend of a stock on the Iranian Stock Exchange using LSTM and GRU Networks
 
 ## Data
 
